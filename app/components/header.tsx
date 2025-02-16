@@ -1,6 +1,6 @@
 import Link from 'next/link'
 
-const header = () => {
+const header = () => {  
   return (
       <div className='mx-auto container'>
         <div className="py-6 px-2">
